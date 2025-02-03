@@ -12,3 +12,11 @@ by handful time of up and down and gaining experience on that Language you've le
 When you committed to do that and start by writing on your own, that's the sign
 that you are making your own path to success.
 </p>
+
+<p align="justify">
+Ok, here are the languages I currently try to learn based on my own priorities:
+<ol><a href="">English</a></ol>
+<ol><a href="/Japanese/resources.md">Japanese</a></ol>
+<ol><a href="">Dutch</another></ol>
+<ol><a href="">Arabic</a></ol>
+</p>
