@@ -18,7 +18,20 @@ Back to the step by steps of learning Japanese.
 Here I referencing from <a href="https://www.youtube.com/watch?v=Xt8rQ9niik4"><b>
 Ryu Sensei's Japanese Class</a></b> on knowing the way of learning Japanese. This video explanation is using bahasa so, if you wanted to know it you can get from the others. 
 
-### B. Start to know Japanese writing system and PRACTICE (PRACTICE IS MANDATORY)
+### B. Start to know Japanese writing system and practices (WRITING PRACTICE IS MANDATORY)
+
+## Hiragana
+
+I get the source from Kaligrafi Jepang Takumi https://www.youtube.com/@takumitohgu
+
+There is also several types of words that is written slighty different. So I also using this 
+reference to know in advance. 
+
+Belajar Bahasa Jepang OTODIDAK - HIRAGANA Full Version https://www.youtube.com/watch?v=icK6kVTegDA
+
 1. Start by writing basic line of KANA https://www.youtube.com/watch?v=z1AVcLTadOI
 2. Write How to write "A,I,U"（1/10） https://www.youtube.com/watch?v=O9Usdr0TqV8
 3. Write How to write "A,I,U,E,O"（2/10）https://www.youtube.com/watch?v=-DFsORHFNjE
+4. How to write "SA,SHI,SU,SE,SO"（4/10） https://www.youtube.com/watch?v=2AA82k1jd18
+5. How to write "TA,CHI,TSU,TE,TO"（5/10）https://www.youtube.com/watch?v=dbN0YYMm1No
+6. TBD
