@@ -34,4 +34,8 @@ Belajar Bahasa Jepang OTODIDAK - HIRAGANA Full Version https://www.youtube.com/w
 3. Write How to write "A,I,U,E,O"（2/10）https://www.youtube.com/watch?v=-DFsORHFNjE
 4. How to write "SA,SHI,SU,SE,SO"（4/10） https://www.youtube.com/watch?v=2AA82k1jd18
 5. How to write "TA,CHI,TSU,TE,TO"（5/10）https://www.youtube.com/watch?v=dbN0YYMm1No
-6. TBD
+6. How to write "NA,NI,NU,NE,NO"（6/10）https://www.youtube.com/watch?v=bHxECdrJ_9g&t=251s
+7. How to write "HA,HI,FU,HE,HO"（7/10）https://www.youtube.com/watch?v=2K-lHDqR0_o
+8. How to write"MA,MI,MU,ME,MO"（8/10）https://www.youtube.com/watch?v=wQ52EfgIyzg
+9. How to write "YA,YU,YO"（9/10）https://www.youtube.com/watch?v=ATJhqambhqo
+10. TBD
