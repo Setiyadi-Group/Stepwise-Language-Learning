@@ -27,6 +27,8 @@ I get the source from Kaligrafi Jepang Takumi https://www.youtube.com/@takumitoh
 There is also several types of words that is written slighty different. So I also using this 
 reference to know in advance. 
 
+Full list of HIRAGANA (source: NHK): https://www.nhk.or.jp/lesson/en/letters/hiragana.html
+
 Belajar Bahasa Jepang OTODIDAK - HIRAGANA Full Version https://www.youtube.com/watch?v=icK6kVTegDA
 
 1. Start by writing basic line of KANA https://www.youtube.com/watch?v=z1AVcLTadOI
@@ -38,4 +40,8 @@ Belajar Bahasa Jepang OTODIDAK - HIRAGANA Full Version https://www.youtube.com/w
 7. How to write "HA,HI,FU,HE,HO"（7/10）https://www.youtube.com/watch?v=2K-lHDqR0_o
 8. How to write"MA,MI,MU,ME,MO"（8/10）https://www.youtube.com/watch?v=wQ52EfgIyzg
 9. How to write "YA,YU,YO"（9/10）https://www.youtube.com/watch?v=ATJhqambhqo
-10. TBD
+10. How to write "RA,RI,RU,RE,RO"（10/10）https://www.youtube.com/watch?v=_FGOj1cDnyY&t=367s
+
+The rest is "WA, O and N". Since it was unavailable you can try yourself by following from NHK.
+
+All you have to do is to try repeatedly writing and reading until those new alphabet being added to your muscle memory.
