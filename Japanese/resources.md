@@ -25,9 +25,9 @@ Ryu Sensei's Japanese Class</a></b> on knowing the way of learning Japanese. Thi
 I get the source from Kaligrafi Jepang Takumi https://www.youtube.com/@takumitohgu
 
 There is also several types of words that is written slighty different. So I also using this 
-reference to know in advance. 
+reference to know in advance.
 
-Full list of HIRAGANA (source: NHK): https://www.nhk.or.jp/lesson/en/letters/hiragana.html
+**Full list of HIRAGANA** (source: NHK): https://www.nhk.or.jp/lesson/en/letters/hiragana.html
 
 Belajar Bahasa Jepang OTODIDAK - HIRAGANA Full Version https://www.youtube.com/watch?v=icK6kVTegDA
 
@@ -45,3 +45,21 @@ Belajar Bahasa Jepang OTODIDAK - HIRAGANA Full Version https://www.youtube.com/w
 The rest is "WA, O and N". Since it was unavailable you can try yourself by following from NHK.
 
 All you have to do is to try repeatedly writing and reading until those new alphabet being added to your muscle memory.
+
+## Katakana
+
+Because I think I was able to write katakana using the same methods like what Takumi's teaches using square box thingy, I don't watch anymore for learning how to write katakana.
+
+**Full list of KATAKANA** (source: NHK): https://www.nhk.or.jp/lesson/id/letters/katakana.html
+
+## My custom Hiragana and Katakana order version
+
+While I do several practices directly using paper and pen <a href="/Japanese/histories/writing/">here</a>. I think the current order don't match to be able to be remembered in my brain. With that I'm invented this order to make my brain thinks this is easy to be memorized.
+
+### Hiragana
+
+<p align="center"><img src="/Japanese/histories/writing/katakana/Japanese learning logs_10.jpg"></p>
+
+### Katakana
+
+<img src="/Japanese/histories/writing/katakana/Japanese learning logs_11.jpg" align="center">
