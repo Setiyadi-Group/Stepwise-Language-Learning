@@ -62,4 +62,13 @@ While I do several practices directly using paper and pen <a href="/Japanese/his
 
 ### Katakana
 
-<img src="/Japanese/histories/writing/katakana/Japanese learning logs_11.jpg" align="center">
+<p align="center"><img src="/Japanese/histories/writing/katakana/Japanese learning logs_11.jpg"></p>
+
+### C. Getting more understanding of Japanese by learning from third party apps
+
+In this case, I'm using **renshuu** (not sponsored anyway) as a startpoint because it has a lot of important information that very useful for enhanching my common understanding about Japanese language.
+
+<p align="center"><img src="/image-files/renshuu-resources.png"></p>
+<p align="center"><a href="https://www.renshuu.org/index.php?page=quiz/fundamentals"><b>Click here to visit the materials</b></a></p>
+
+For more resoursces, I will update whenever I have succesfully learned and master that for sure.
