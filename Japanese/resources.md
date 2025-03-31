@@ -81,6 +81,9 @@ Actual conversation is here:
 <p align="center"><img src="/image-files/qna-japanese_keyboards-1.png"></p>
 <p align="center"><img src="/image-files/qna-japanese_keyboards-2.png"></p>
 
-Here is what my friend referencing from <a href="https://youtu.be/iL6zMD6QMuU?si=GhH7Xyn5p1z9jxdz"><b>
+<a href="https://www.youtube.com/watch?v=eYZYQLlucqw"><b>Here is what my friend referencing from</b></a>
+
+<a href="https://youtu.be/iL6zMD6QMuU?si=GhH7Xyn5p1z9jxdz"><b>Here is what i found in my youtube recommendations</b></a>
+
 
 For more resoursces, I will update whenever I have succesfully learned and master that for sure.
