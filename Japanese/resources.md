@@ -10,7 +10,8 @@ Also, in order to master any language including Japanese you have to make a high
 #### Summary as follows:
 #### A. Knowing the path of learning Japanese
 #### B. Start to know Japanese writing system and PRACTICE (PRACTICE IS MANDATORY)
-####
+#### C. Getting more understanding of Japanese by learning from third party apps
+#### D. Start to find out how to type using Japanese keyboards
 
 Back to the step by steps of learning Japanese.
 
@@ -70,5 +71,16 @@ In this case, I'm using **renshuu** (not sponsored anyway) as a startpoint becau
 
 <p align="center"><img src="/image-files/renshuu-resources.png"></p>
 <p align="center"><a href="https://www.renshuu.org/index.php?page=quiz/fundamentals"><b>Click here to visit the materials</b></a></p>
+
+### D. Start to find out how to type using Japanese keyboards
+
+I have Japanese friend in steam and ansking the problem I currently occured and he gave me a simple guide in order to be able to use the keyboards, here is the guide below:
+
+Actual conversation is here:
+
+<p align="center"><img src="/image-files/qna-japanese_keyboards-1.png"></p>
+<p align="center"><img src="/image-files/qna-japanese_keyboards-2.png"></p>
+
+Here is what my friend referencing from <a href="https://youtu.be/iL6zMD6QMuU?si=GhH7Xyn5p1z9jxdz"><b>
 
 For more resoursces, I will update whenever I have succesfully learned and master that for sure.
