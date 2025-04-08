@@ -1,4 +1,13 @@
 # Learning Japanese
+## What is the reason?
+
+There is several reason many people trying to learn Japanese, but for most of the people are the salary that attract many foreigners (Gaijin to do that). Below are the recorded webinars from KapanJepan in English and Bahasa, please watch it to get more insight in hand:
+
+- Webinar 'Working Visa System and Preparation for Working in Japan - KapanJepan https://youtu.be/_w0xgFpj0HU
+
+- Webinar Living in Japan as an Indonesian Professional - KapanJapan
+<br> https://youtu.be/wNKfT3JQeh0
+
 ## What to do?
 
 There are several ways to learn japanese, but what I'm curretly doing are scouting through internet to find the methods or mechanics in order to find the way sucessfully using it in real world practices.
@@ -85,5 +94,12 @@ Actual conversation is here:
 
 <a href="https://youtu.be/iL6zMD6QMuU?si=GhH7Xyn5p1z9jxdz"><b>Here is what i found in my youtube recommendations</b></a>
 
+### E. Start to learn Kanji
+
+Because I couldn't find web bages that give the stroke instructions, I'm using this kanji tutorial from **Learn Japanese Channel** https://www.youtube.com/@LearnJapaneseChannel/playlists
+
+## Kanji
+
+- N5 Kanji Reading and Writing Practice - https://www.youtube.com/playlist?list=PLVGw_A21plC4CNCpCAU_6j7eYcRSjvvyP
 
 For more resoursces, I will update whenever I have succesfully learned and master that for sure.
