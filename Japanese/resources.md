@@ -62,7 +62,7 @@ Because I think I was able to write katakana using the same methods like what Ta
 
 **Full list of KATAKANA** (source: NHK): https://www.nhk.or.jp/lesson/id/letters/katakana.html
 
-## My custom Hiragana and Katakana order version
+## My custom order version of Hiragana and Katakana
 
 While I do several practices directly using paper and pen <a href="/Japanese/histories/writing/">here</a>. I think the current order don't match to be able to be remembered in my brain. With that I'm invented this order to make my brain thinks this is easy to be memorized.
 
@@ -94,8 +94,32 @@ Actual conversation is here:
 
 <a href="https://youtu.be/iL6zMD6QMuU?si=GhH7Xyn5p1z9jxdz"><b>Here is what i found in my youtube recommendations</b></a>
 
-### E. Start to learn Kanji
+### E. Hiragana and Katakana inside computer
+After few weeks doing repeated learning by handwritten and typing here are my custom order below, 
 
+**Hiragana:**
+<p align="justify">ぁいうえお __ かきくけこさしすせそたちつてと</p>
+<p align="justify">_______________ がぎぐげござじずぜぞだぢづでど</p>
+<p align="justify">なにぬねの _____ きや______ しや_______ ちや</p>
+<p align="justify">__ にや __________ きゆ______ しゆ_______ ちゆ</p>
+<p align="justify">__ にゆ __________ きよ______ しよ_______ ちよ</p>
+<p align="justify">__ によ __________ ぎや______ じや</p>
+<p align="justify">__________________ ぎゆ______ じゆ</p>
+<p align="justify">__________________ ぎよ______ じよ</p>
+<p align="justify">はひふへほ __ まみむめもやゆよらりるれろ</p>
+<p align="justify">ばびぶべぼ _____ みや_____________ りや</p>
+<p align="justify">ぱぴぷぺぽ _____ みゆ_____________ りゆ</p>
+<p align="justify">__ ひや __________ みよ_____________ りよ</p>
+<p align="justify">__ ひゆ ___________________________ わをん</p>
+<p align="justify">__ ひよ</p>
+<p align="justify">__ びや</p>
+<p align="justify">__ びゆ</p>
+<p align="justify">__ びよ</p>
+<p align="justify">__ ぴや</p>
+<p align="justify">__ ぴゆ</p>
+<p align="justify">__ ぴよ</p>
+
+### F. Start to learn Kanji
 Because I couldn't find web bages that give the stroke instructions, I'm using this kanji tutorial from **Learn Japanese Channel** https://www.youtube.com/@LearnJapaneseChannel/playlists
 
 ## Kanji
