@@ -119,6 +119,28 @@ After few weeks doing repeated learning by handwritten and typing here are my cu
 <p align="justify">__ ぴゆ</p>
 <p align="justify">__ ぴよ</p>
 
+**Katakana:**
+<p align="justify">アイウエオ __ カキクケコサシスセソタチツテト</p>
+<p align="justify">_______________ ガギグゲゴザジズゼゾダヂヅデド</p>
+<p align="justify">ナ二ヌネノ _____ キヤ______ シヤ_______ チヤ</p>
+<p align="justify">__ 二ヤ __________ キユ______ シユ_______ チユ</p>
+<p align="justify">__ 二ユ __________ キヨ______ シヨ_______ チヨ</p>
+<p align="justify">__ 二ヨ __________ ギヤ______ ジヤ</p>
+<p align="justify">__________________ ギユ______ ジユ</p>
+<p align="justify">__________________ ギヨ______ ジヨ</p>
+<p align="justify">ハヒフヘホ __ マミムメモヤユヨラリルレロ</p>
+<p align="justify">バビブベボ _____ ミヤ_____________ リヤ</p>
+<p align="justify">パピプペポ _____ ミユ_____________ リユ</p>
+<p align="justify">__ ヒヤ __________ ミヨ_____________ リヨ</p>
+<p align="justify">__ ヒユ ___________________________ ワヲン</p>
+<p align="justify">__ ヒヨ</p>
+<p align="justify">__ ビヤ</p>
+<p align="justify">__ ビユ</p>
+<p align="justify">__ ビヨ</p>
+<p align="justify">__ ピヤ</p>
+<p align="justify">__ ピユ</p>
+<p align="justify">__ ピヨ</p>
+
 ### F. Start to learn Kanji
 Because I couldn't find web bages that give the stroke instructions, I'm using this kanji tutorial from **Learn Japanese Channel** https://www.youtube.com/@LearnJapaneseChannel/playlists
 
