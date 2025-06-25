@@ -19,8 +19,10 @@ Also, in order to master any language including Japanese you have to make a high
 #### Summary as follows:
 #### A. Knowing the path of learning Japanese
 #### B. Start to know Japanese writing system and PRACTICE (PRACTICE IS MANDATORY)
-#### C. Getting more understanding of Japanese by learning from third party apps
-#### D. Start to find out how to type using Japanese keyboards
+#### C. Start to find out how to type using Japanese keyboards
+#### D. Hiragana and Katakana inside computer
+#### E. Start to learn Kanji
+#### F. Getting more understanding of Japanese by learning from third party apps
 
 Back to the step by steps of learning Japanese.
 
@@ -68,20 +70,13 @@ While I do several practices directly using paper and pen <a href="/Japanese/his
 
 ### Hiragana
 
-<p align="center"><img src="/Japanese/histories/writing/katakana/Japanese learning logs_10.jpg"></p>
+<p align="center"><img src="/Japanese/histories/writing/markdown/hiragana_n_katakana-revised_1.jpg"></p>
 
 ### Katakana
 
-<p align="center"><img src="/Japanese/histories/writing/katakana/Japanese learning logs_11.jpg"></p>
+<p align="center"><img src="/Japanese/histories/writing/markdown/hiragana_n_katakana-revised_2.jpg"></p>
 
-### C. Getting more understanding of Japanese by learning from third party apps
-
-In this case, I'm using **renshuu** (not sponsored anyway) as a startpoint because it has a lot of important information that very useful for enhanching my common understanding about Japanese language.
-
-<p align="center"><img src="/image-files/renshuu-resources.png"></p>
-<p align="center"><a href="https://www.renshuu.org/index.php?page=quiz/fundamentals"><b>Click here to visit the materials</b></a></p>
-
-### D. Start to find out how to type using Japanese keyboards
+### C. Start to find out how to type using Japanese keyboards
 
 I have Japanese friend in steam and ansking the problem I currently occured and he gave me a simple guide in order to be able to use the keyboards, here is the guide below:
 
@@ -94,7 +89,7 @@ Actual conversation is here:
 
 <a href="https://youtu.be/iL6zMD6QMuU?si=GhH7Xyn5p1z9jxdz"><b>Here is what i found in my youtube recommendations</b></a>
 
-### E. Hiragana and Katakana inside computer
+### D. Hiragana and Katakana inside computer
 After few weeks doing repeated learning by handwritten and typing here are my custom order below, 
 
 **Hiragana:**
@@ -141,11 +136,25 @@ After few weeks doing repeated learning by handwritten and typing here are my cu
 <p align="justify">__ ピユ</p>
 <p align="justify">__ ピヨ</p>
 
-### F. Start to learn Kanji
+### E. Start to learn Kanji
 Because I couldn't find web bages that give the stroke instructions, I'm using this kanji tutorial from **Learn Japanese Channel** https://www.youtube.com/@LearnJapaneseChannel/playlists
 
 ## Kanji
 
 - N5 Kanji Reading and Writing Practice - https://www.youtube.com/playlist?list=PLVGw_A21plC4CNCpCAU_6j7eYcRSjvvyP
 
-For more resoursces, I will update whenever I have succesfully learned and master that for sure.
+
+For more resources, I will update whenever I have succesfully learned and master that for sure.
+
+### F. Getting more understanding of Japanese by learning from third party apps
+
+1. In this case, I'm using **renshuu** (not sponsored anyway) as a startpoint because it has a lot of important information that very useful for enhanching my common understanding about Japanese language.
+
+<p align="center"><img src="/image-files/renshuu-resources.png"></p>
+<p align="center"><a href="https://www.renshuu.org/index.php?page=quiz/fundamentals"><b>Click here to visit the materials</b></a></p>
+
+2. The second app that I'm recommed to try is **Todaii** (not sponsored anyway) for the daily exercises during your daily routine. It's also has plenty full of assists tool
+like furigana, romanji, text to speech function and english translation.
+
+<p align="center"><img src="/image-files/todaii.png"></p>
+<p align="center"><a href="https://japanese.todaiinews.com"><b>Click here to visit the materials</b></a></p>
