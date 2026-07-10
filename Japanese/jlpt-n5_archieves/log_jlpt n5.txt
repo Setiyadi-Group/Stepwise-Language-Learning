@@ -1,34 +1,245 @@
 Edulabo JLPT N5 - Pertemuan **
 
 Edulabo JLPT N5 - Tingkat Pemula (A1) Buku Irodori
-
 Courses? https://bit.ly/waedulabo
 Sumber:
 https://drive.google.com/drive/folders/1486YkMrbRvPHsgpOzQG4Zr02flFESNMw
 https://sites.google.com/view/jf-irodori/halaman-pemelajar
 https://github.com/Setiyadi-Group/Stepwise-Language-Learning/tree/main/Japanese/jlpt-n5_archieves
 
+Daftar Pengecekan Target Can-do Irodori Tingkat Pemula (A1)
 
-Pertemuan 1 - こんにちは、お先に失礼します、ありがとうございます、メッセージスタンプ
-Pertemuan 2 - もういちど、お願いします、日本語、できますか?　これは日本語で何と言いますか?
-Pertemuan 3 - はじめまして、名札、ご出身は?　申込書
-Pertemuan 4 - 夫と子どもです、25 歳です、ペットのジョンです、友だちと海!
-Pertemuan 5 - 
-Pertemuan 6 - 
-Pertemuan 7 - 
-Pertemuan 8　- 
-Pertemuan 9 - 
-Pertemuan 10 -
-Pertemuan 11 - 
-Pertemuan 12 -
-Pertemuan 13 -
-Pertemuan 14 -
-Pertemuan 15 -
-Pertemuan 16　-
-Pertemuan 17　-
-Pertemuan 18　-
-Pertemuan 19　-
-Pertemuan 20　-
-pertemuan 21　-
-pertemuan 22　-
+Pertemuan 1
+第1課　おはようございます
+Topik : はじめての日本語 (Mulai Berbicara Bahasa Jepang)
+01 人に会ったとき、あいさつをすることができる。
+Mampu mengucapkan salam ketika bertemu seseorang.
+02 人と別れるとき、あいさつをすることができる。
+Mampu mengucapkan salam perpisahan ketika berpisah dengan seseorang.
+03 人にお礼を言ったり、謝ったりすることができる。
+Mampu menyatakan terima kasih dan meminta maaf kepada seseorang.
+04 「おはよう」や「ありがとう」などのメッセージスタンプを見て、意味を理解することができる。
+Mampu memahami makna stiker pada aplikasi pesan yang bertuliskan ohayoo, arigatoo, dan sebagainya.
+
+Pertemuan 2
+第2課　すみません、よくわかりません
+Topik : はじめての日本語 (Mulai Berbicara Bahasa Jepang)
+05 相手の言っていることがよくわからないとき、聞き返すことができる。
+Mampu meminta pengulangan ketika tidak memahami apa yang dikatakan lawan bicara.
+06 日本語やほかのことばができるかどうか質問したり、質問に答えたりすることができる。
+Mampu bertanya jawab mengenai kemampuan berbahasa Jepang maupun bahasa lainnya.
+07 日本語の言い方がわからないとき、どう言えばいいか質問して、その答えを理解することができる。
+Mampu bertanya bagaimana menyatakan sesuatu dalam bahasa Jepang, serta memahami jawabannya.
+
+Pertemuan 3
+第3課　よろしくお願いします
+Topik : 私のこと (Tentang Diri Saya)
+08 名前や出身などを言って、簡単な自己紹介をすることができる。
+Mampu memperkenalkan diri secara sederhana dengan menyebutkan nama serta kota atau negara asal.
+09 名札などに、自分の国と名前を書くことができる。
+Mampu menuliskan nama dan negara asal pada kartu tanda pengenal (name tag).
+10 はじめて会った人に、名前や出身などを質問したり、質問に答えたりすることができる。
+Mampu bertanya jawab mengenai nama dan daerah asal dengan seseorang yang baru pertama kali ditemui.
+11 申込書に、氏名、国籍、生年月日などを書き込むことができる。
+Mampu menulis nama lengkap, kewarganegaraan, tanggal lahir, dan informasi lainnya pada formulir pendaftaran.
+
+Pertemuan 4
+第4課　東京に住んでいます
+Topik : 私のこと (Tentang Diri Saya)
+12 家族の紹介を聞いて、家族のメンバーを理解することができる。
+Mampu menyimak seseorang memperkenalkan keluarganya, serta memahami siapa saja anggota keluarganya.
+13 住んでいるところや年齢などを質問したり、質問に答えたりすることができる。
+Mampu bertanya jawab mengenai tempat tinggal, usia, dan sebagainya.
+14 写真を見ながら、その人がだれかなどの簡単な質問をしたり、質問に答えたりすることができる。
+Mampu melakukan tanya jawab sederhana mengenai sebuah foto, misalnya siapa orang dalam foto tersebut, dan sebagainya.
+15 友人のSNSの短い書き込みを読んで、写真を手がかりに、話題を理解することができる。
+Mampu membaca tulisan singkat yang diunggah teman di media sosial, serta mampu memahami topik dengan mengacu pada foto.
+
+Pertemuan 5
+第5課　うどんが好きです
+Topik : 好きな食べ物 (Makanan Favorit)
+16 食べ物の好き嫌いを聞かれたとき、答えることができる。
+Mampu menjawab pertanyaan mengenai makanan yang disukai dan tidak disukai.
+17 日本の食べ物について、好き嫌いを質問したり、質問に答えたりすることができる。
+Mampu bertanya jawab mengenai makanan Jepang yang disukai dan tidak disukai.
+18 飲み物をすすめられたとき、何を飲むかなど、答えることができる。
+Mampu memberikan respon ketika ditawari minuman, misalnya dengan menyatakan ingin minum apa dan sebagainya.
+19 朝ご飯に何を食べるか質問したり、質問に答えたりすることができる。
+Mampu bertanya jawab mengenai makanan yang lazim dikonsumsi ketika sarapan.
+20 食事の写真に簡単な説明をつけて、SNSに投稿することができる。
+Mampu menulis penjelasan sederhana mengenai foto makanan dan mengunggahnya ke media sosial.
+
+Pertemuan 6
+第6課　チーズバーガーください
+Topik : 好きな食べ物 (Makanan Favorit)
+21 ファストフード店のメニューを見て、どんな食べ物や飲み物があるかがわかる。
+Mampu memahami makanan dan minuman apa saja yang tersedia ketika melihat menu di restoran cepat saji.
+22 ファストフード店で、注文することができる。
+Mampu memesan makanan dan minuman di restoran cepat saji.
+23 ほかの人と食事をするとき、何を食べるか質問したり、質問に答えたりすることができる。
+Mampu bertanya jawab tentang makanan yang akan dimakan ketika makan bersama orang lain.
+24 飲食店で、料理を注文したり、お皿やグラスなど、ほしいものを頼んだりすることができる。
+Mampu memesan makanan, meminta piring, gelas atau benda lainnya yang dibutuhkan ketika berada di restoran.
+25 飲食店の看板を見て、何の店かがわかる。
+Mampu mengetahui restoran apakah yang dilihat hanya dengan mengamati papan namanya.
+
+Pertemuan 7
+第7課　部屋が４つあります
+Topik : 家と職場 (Rumah dan Tempat Kerja)
+26 家の中を案内してもらいながら、簡単な説明を聞いて、間取りを理解することができる。
+Mampu memahami tata letak ruangan ketika mendengar penjelasan sederhana sambil dipandu berkeliling rumah.
+27 家や部屋に必要なものがそろっているか質問して、確認することができる。
+Mampu bertanya dan mengonfirmasi apakah barang-barang yang dibutuhkan sudah tersedia di rumah ataupun kamar.
+28 どこに住んでいるか、家はどうか質問されたとき、簡単に答えることができる。
+Mampu memberikan jawaban sederhana ketika ditanya tinggal di mana dan seperti apa rumahnya.
+29 どんな家に住んでいるか質問したり、質問に答えたりすることができる。
+Mampu bertanya dan menjawab pertanyaan tentang jenis rumah yang ditinggali.
+30 エアコンのリモコンなど、家電を操作するための表示を見て、どのボタンを押せばいいかがわかる。
+Mampu memahami tombol mana yang harus ditekan ketika melihat tampilan pengoperasian peralatan elektronik, seperti remote control AC, dan sebagainya.
+
+Pertemuan 8
+第8課　山田さんはどこにいますか？
+Topik : 家と職場 (Rumah dan Tempat Kerja)
+31 職場の部屋を案内してもらいながら、簡単な説明を聞いて、何の部屋かがわかる。
+Mampu mendengarkan penjelasan sederhana saat dipandu berkeliling ruangan di tempat kerja, serta memahami ruangan apakah itu.
+32 人の居場所を質問したり、質問に答えたりすることができる。
+Mampu bertanya jawab mengenai keberadaan seseorang.
+33 職場などで、ものの置き場を質問したり、質問に答えたりすることができる。
+Mampu bertanya jawab mengenai tempat meletakkan suatu barang di tempat kerja.
+34 部屋の入り口の表示を見て、何の部屋かがわかる。
+Mampu melihat tanda di pintu masuk suatu ruangan dan memahami ruangan apakah itu.
+
+Pertemuan 9
+第9課　12時から1時まで昼休みです
+Topik : 毎日の生活 (Kehidupan Keseharian)
+35 起きる時間や寝る時間を質問したり、質問に答えたりすることができる。
+Mampu bertanya jawab mengenai waktu tidur dan waktu bangun.
+36 職場で、1日のスケジュールについての簡単な説明を聞いて、理解することができる。
+Mampu mendengarkan serta memahami penjelasan sederhana mengenai jadwal harian di tempat kerja.
+37 職場のホワイトボードを見て、ほかの人のスケジュールがだいたいわかる。
+Mampu memahami garis besar jadwal orang lain ketika melihat papan tulis di tempat kerja.
+38 日程を決めるために、都合をたずね合うことができる。
+Mampu saling mengajukan pertanyaan dengan lawan bicara mengenai ketersediaan waktu untuk menentukan jadwal.
+
+Pertemuan 10
+第10課　ホチキス貸してください
+Topik : 毎日の生活 (Kehidupan Keseharian)
+39 職場で、短い簡単な指示を聞いて、何をすればいいか理解することができる。
+Mampu mendengarkan instruksi singkat dan sederhana di tempat kerja, serta memahami apa yang harus dilakukan.
+40 職場で指示を受けたとき、大切な点を確認したり、聞き返したりすることができる。
+Mampu mengonfirmasi poin-poin penting dan meminta pengulangan ketika menerima instruksi di tempat kerja.
+41 職場で、手書きの簡単なメモを見て、指示の内容を理解することができる。
+Mampu memahami isi instruksi ketika melihat catatan sederhana yang ditulis tangan di tempat kerja.
+42 職場などで、借りたいものがあるとき、貸してもらえるように頼むことができる。
+Mampu meminta kepada seseorang untuk meminjamkan benda yang diperlukan di tempat kerja.
+43 備品リストを見て、必要なものがそろっているかどうか確認することができる。
+Mampu melihat daftar peralatan dan mengonfirmasi apakah semua barang yang dibutuhkan telah tersedia.
+
+Pertemuan 11
+第11課　どんなマンガが好きですか？
+Topik : 私の好きなこと (Hal yang Saya Sukai)
+44 趣味について質問されたとき、簡単に答えることができる。
+Mampu memberikan jawaban sederhana ketika ditanya mengenai hobi.
+45 趣味や好きなことを質問したり、質問に答えたりすることができる。
+Mampu bertanya jawab mengenai hobi dan kegemaran.
+46 休みの日に何をするか、質問したり、質問に答えたりすることができる。
+Mampu bertanya jawab mengenai kebiasaan yang dilakukan pada hari libur.
+47 SNSの簡単なプロフィールを読んで、その人の好きなことを理解することができる。
+Mampu membaca profil sederhana seseorang di media sosial, serta mampu memahami apa yang disukai orang tersebut.
+
+Pertemuan 12
+第12課　いっしょに飲みに行きませんか？
+Topik : 私の好きなこと (Hal yang Saya Sukai)
+48 イベントのお知らせを見て、日時や場所などの大切な情報を探すことができる。
+Mampu menemukan informasi penting seperti tanggal, waktu, dan tempat ketika melihat pemberitahuan mengenai suatu acara.
+49 イベントなどに行くかどうか質問したり、質問に答えたりすることができる。
+Mampu bertanya jawab mengenai pergi atau tidak ke suatu acara.
+50 相手を誘ったり、誘われたりしたとき、自分の都合を言うことができる。
+Mampu menyatakan ketersediaan waktu ketika mengajak maupun diajak seseorang.
+51 友人からの簡単な誘いのメッセージを読んで、返事を書くことができる。
+Mampu menulis jawaban ketika membaca pesan ajakan sederhana dari teman.
+
+Pertemuan 13
+第13課　このバスは空港に行きますか？
+Topik : 街を歩く (Berkeliling Kota)
+52 電車やバスなどが自分の行きたいところに行くかどうか質問して、その答えを理解することができる。
+Mampu bertanya apakah bus atau kereta menuju ke tempat yang ingin dituju, serta mampu memahami jawabannya.
+53 駅名を知らせる車内アナウンスを聞いて、よくわからないとき、ほかの人に質問することができる。
+Mampu bertanya kepada orang lain ketika tidak begitu memahami pemberitahuan di dalam kereta mengenai nama stasiun.
+54 家から職場までの交通手段や所要時間を言うことができる。
+Mampu menyatakan moda transportasi yang digunakan serta waktu tempuh dari rumah menuju tempat kerja.
+55 目的地までの行き方を質問して、その答えを理解することができる。
+Mampu bertanya mengenai cara pergi ke tempat yang ingin dituju, serta memahami jawabannya.
+56 駅でよく見かける表示を見て、意味がわかる。
+Mampu melihat tanda petunjuk yang sering ditemui di stasiun, serta memahami maknanya.
+
+Pertemuan 13
+Pertemuan 14
+第14課　大きな建物ですね
+Topik : 街を歩く (Berkeliling Kota)
+57 外出先で、トイレやATMなどの場所を質問することができる。
+Mampu bertanya di mana lokasi toilet, ATM, dan sebagainya ketika sedang bepergian.
+58 自分のいる場所を、電話で相手に伝えることができる。
+Mampu menyampaikan lokasi diri saat ini kepada lawan bicara melalui telepon.
+59 町のいろいろな場所を案内されたとき、相手に感想を伝えることができる。
+Mampu menyatakan kesan kepada lawan bicara ketika dipandu berkeliling kota.
+60 店やレストランなどの掲示を見て、営業時間や休業日などを理解することができる。
+Mampu membaca tanda di toko maupun restoran, serta memahami jam operasional dan hari libur.
+
+Pertemuan 14
+Pertemuan 15
+Pertemuan 16
+第15課　電池がほしいんですが…
+Topik : 店で (Di Toko)
+61 必要なものがあるとき、どこで買えばいいか、ほかの人に質問して、その答えを理解することができる。
+Mampu bertanya kepada orang lain di mana membeli suatu barang yang dibutuhkan, serta memahami jawabannya.
+62 店のフロアガイドを見て、ほしいものがどこにあるか探すことができる。
+Mampu melihat direktori lantai suatu toko, serta mampu menemukan letak barang yang diinginkan.
+63 ショッピングセンターなどで、ほしいものがどこにあるか、店の人に質問して、その答えを理解することができる。
+Mampu bertanya kepada pegawai toko di pusat perbelanjaan mengenai letak barang yang diinginkan, serta memahami jawabannya.
+64 友人などと買い物をしながら、商品について簡単にコメントし合うことができる。
+Mampu bertukar komentar sederhana dengan teman mengenai suatu produk saat sedang berbelanja.
+65 デパートやショッピングセンターなどで、よく見かける表示の意味がわかる。
+Mampu memahami arti papan petunjuk yang sering ditemui di department store atau pusat perbelanjaan.
+
+Pertemuan 16
+Pertemuan 17
+第16課　これ、いくらですか？
+Topik : 店で (Di Toko)
+66 商品の値段を聞いて、理解することができる。
+Mampu menyimak serta memahami harga suatu produk.
+67 店の人に値段を質問して、その答えを理解することができる。
+Mampu menanyakan harga barang kepada pegawai toko, serta mampu memahami jawabannya.
+68 買い物をするとき、必要な量や数を伝えることができる。
+Mampu menyampaikan kuantitas atau jumlah barang yang diperlukan ketika sedang berbelanja.
+69 コンビニのレジで、はしをつけるか、袋に入れるかなどの質問に答えることができる。
+Mampu menjawab pertanyaan di kasir minimarket, seperti perlu sumpit atau tidak, perlu tas belanja atau tidak, dan sebagainya.
+70 店で割引表示を見て、商品の値段がわかる。
+Mampu melihat tanda diskon di toko, serta memahami harga produk.
+
+Pertemuan 18
+第17課　映画を見に行きました
+Topik : 休みの日に (Pada Hari Libur)
+71 休みの日にしたことを質問されたとき、簡単に答えることができる。
+Mampu memberikan jawaban sederhana ketika ditanya mengenai kegiatan yang dilakukan pada hari libur.
+72 休みの日にしたことやその感想を質問したり、質問に答えたりすることができる。
+Mampu bertanya jawab mengenai hal yang dilakukan pada hari libur dan kesan mengenai kegiatan tersebut.
+73 SNSの簡単な書き込みを読んで、写真を手がかりに、何をしたかを理解することができる。
+Mampu membaca tulisan sederhana pada media sosial, serta memahami apa yang dilakukan pengunggah dengan melihat foto sebagai petunjuk.
+74 身近な施設の料金表を見て、いくら払えばいいかがわかる。
+Mampu membaca daftar harga suatu fasilitas daerah setempat, serta memahami berapa biaya yang harus dibayar.
+75 いっしょに出かけた人に、あとから、感想を書いた簡単なメッセージを送ることができる。
+Mampu menulis dan mengirimkan pesan sederhana kepada orang lain mengenai kesan setelah pergi bersama.
+
+Pertemuan 18
+第18課　温泉に入りたいです
+Topik : 休みの日に (Pada Hari Libur)
+76 休みの日にしたいことを質問したり、質問に答えたりすることができる。
+Mampu bertanya jawab mengenai hal yang ingin dilakukan pada hari libur.
+77 日本でしたいことを質問されたとき、簡単に答えることができる。
+Mampu memberikan jawaban sederhana ketika ditanya mengenai hal yang ingin dilakukan di Jepang.
+78 休みの日にしたことについて、SNSなどに簡単に書き込むことができる。
+Mampu membuat tulisan singkat di media sosial mengenai hal yang dilakukan pada hari libur.
+79 旅行先でしたことやその感想について、簡単に話すことができる。
+Mampu bercerita secara sederhana mengenai hal yang dilakukan di tempat wisata dan bagaimana kesannya.
 
