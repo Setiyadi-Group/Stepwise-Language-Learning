@@ -155,11 +155,127 @@ MATERI JLPT N3 - PERTEMUAN 7 (PPT #7)
 
 =====================================================================================================================================================
 
+MATERI JLPT N3 - PERTEMUAN 8 (PPT #8)
+
+～によれば / ～によると
+* Fungsi: Menyampaikan informasi yang diperoleh dari suatu sumber, seperti orang lain, berita, atau ramalan cuaca ("menurut...", "berdasarkan...").
+* Pola: KB (sumber informasi) + によれば / によると
+
+～ということだ / ～とのことだ
+* Fungsi: Menyampaikan informasi yang didapat dari orang lain atau menjelaskan arti/kesimpulan ("katanya...", "dikatakan bahwa...", "artinya...").
+* Pola: Kalimat biasa + ということだ / とのことだ
+
+～について(は/も) / ～についてのN
+* Fungsi: Menyebutkan topik atau hal yang menjadi pembahasan ("tentang...", "mengenai...", "berkenaan dengan...").
+* Pola: KB + について(は/も) / KB + についての + KB
+
+～てる / ～とく
+* Fungsi: Bentuk percakapan santai sehari-hari untuk menyatakan kegiatan yang sedang berlangsung (singkatan ～ている) atau persiapan (singkatan ～ておく).
+* Pola: KK (Bentuk-て) + る (dari ～ている) / KK (Bentuk-て) + く (dari ～ておく)
+=========================================================================================================================================================
+
+MATERI JLPT N3 - PERTEMUAN 9 (PPT #9)
+
+～なきゃ
+* Fungsi: Menyatakan keharusan dalam percakapan santai ("harus...", "mesti..."). Merupakan bentuk singkat dari ～なければならない atau ～なければいけない.
+* Pola: KK (Bentuk-ない tanpa い) + きゃ
+
+～っけ
+* Fungsi: Mengingat kembali informasi atau menanyakan sesuatu yang samar/hampir lupa dalam ingatan ("apa ya...?", "kalau tidak salah...").
+* Pola: (V-た形 / Aイ-かった / Aナ-だった / KB-だった) + っけ
+
+～たりして
+* Fungsi: Menyampaikan dugaan ringan, contoh kemungkinan, atau sindiran halus dalam percakapan kasual ("jangan-jangan...", "bisa-bisa...", "mungkin...").
+* Pola: (KK / KS Bentuk-た) + りして / KB・Aナ + だったりして
+
+～たって
+* Fungsi: Menyatakan pertentangan/kontras dalam percakapan kasual ("meskipun...", "walaupun..."). Merupakan bentuk lisan dari ～ても.
+* Pola: V-た形 + って / Aイ(tanpa い) + たって / Aナ・KB + だって / Negatif: ～なくたって
+=============================================================================================================================================================
+
+MATERI JLPT N3 - PERTEMUAN 10 (PPT #10)
+
+～に決まっている
+* Fungsi: Menyatakan kepastian atau keyakinan yang sangat kuat berdasarkan logika, perasaan, atau penilaian subjektif pembicara ("pasti...", "sudah tentu...", "jelas..."). Lebih kuat dibanding ～だろう atau ～ thinks/と思う.
+* Pola: (KK Kasual / KS-i / KS-na / KB) + に決まっている
+
+～じゃない／～じゃん
+* Fungsi: Menyatakan penegasan/konfirmasi atau mengekspresikan keberatan/protes ringan dalam percakapan santai ("...kan?", "...kan!", "...dong!").
+* Pola: (KB / KS-na / KS-i Bentuk dasar / KK Kasual) + じゃない / じゃん
+
+～って
+* Fungsi: Menunjukkan topik pembicaraan dalam percakapan sehari-hari sebagai bentuk kasual pengganti partikel は ("kalau tentang...", "soal...", "ngomong-ngomong...").
+* Pola: Kata Benda + って
+
+～みたい
+* Fungsi: Menyatakan kemiripan, dugaan, atau perbandingan dalam percakapan santai ("seperti...", "kelihatannya...", "mirip..."). Merupakan bentuk kasual dari ～ようだ.
+* Pola: (KB / KK Bentuk biasa / KS-i / KS-na) + みたい
+==============================================================================================================================================================================================
+
+MATERI JLPT N3 - PERTEMUAN 11 (PPT #11)
+
+～ばよかった
+* Fungsi: Menyatakan penyesalan atau rasa seandainya sesuatu dilakukan/terjadi, hasilnya akan lebih baik ("seandainya tadi...", "harusnya saya..."). Biasanya muncul ketika menyadari kesalahan atau kesempatan yang terlewat.
+* Pola: (KK Bentuk-ば / KK Bentuk-なければ) + よかった
+
+～ばかり／～ばかりいる
+* Fungsi: Menyatakan bahwa sesuatu hanya itu saja yang dilakukan/ada, sehingga memberi kesan berlebihan, monoton, atau negatif ("hanya... melulu", "cuma... saja"). Pola ～ばかりいる khusus untuk kegiatan yang dilakukan berulang-ulang tanpa melakukan hal lain (bernuansa keluhan/kritik).
+* Pola: KB + ばかり / KK Bentuk-て + ばかりいる
+
+～ようだ／～場所に／～ようなN
+* Fungsi: Membandingkan sesuatu dengan hal lain (perumpamaan), menyatakan kesan/dugaan, atau menjelaskan cara/tujuan ("sepertinya...", "...seperti...", "bagaikan...", "supaya/agar"). Merupakan bentuk formal dari ～みたい.
+* Pola: (V / Adj / N) + ようだ / (V-kamus / V-nai) + 場所に / N + のような + N
+
+AはもちろんBも
+* Fungsi: Menekankan bahwa A itu sudah jelas/wajar, dan bahkan B juga demikian ("bukan hanya A tapi B juga...", "A sudah jelas, B juga..."). Digunakan untuk menambahkan informasi yang lebih mengejutkan/di luar dugaan.
+* Pola: KB A + はもちろん + KB B + も *(Catatan: Tambahkan の sebelum は jika A kata kerja/kata sifat)*
+====================================================================================================================================================================================================================================
+
+MATERI JLPT N3 - PERTEMUAN 12 (PPT #12)
+
+～ほど～ない
+* Fungsi: Membandingkan dua hal (A dan B) untuk menyatakan bahwa tingkat/derajat B tidak sama atau tidak mencapai level A ("tidak se-... seperti...", "B tidak sebanding dengan A"). Hal pertama (A) tingkatnya lebih tinggi dibanding B.
+* Pola: KB-A + は + KB-B + ほど + (KS / KK Negatif)
+
+～かわりに
+* Fungsi: Menyatakan pengganti seseorang/suatu hal, kompensasi (ada sisi positif dan negatif), atau konsekuensi/imbalan.
+* Pola: KB + のかわりに / KK (Bentuk Kamus) + かわりに / KS-i + かわりに / KS-na + かわりに
+
+～ずに
+* Fungsi: Merupakan bentuk formal dari 「～ないで」 yang digunakan untuk menyatakan tidak melakukan suatu tindakan lalu melanjutkan tindakan lain, atau menyatakan penyesalan ("tanpa melakukan..."). Sering muncul dalam teks formal/artikel.
+* Pola: KK Bentuk-nai (nai diganti ずに) *(Khusus する → せずに)*
+
+～たまま
+* Fungsi: Menyatakan suatu keadaan yang tetap berlangsung/dibiarkan tanpa perubahan setelah suatu tindakan dilakukan ("dalam keadaan...", "dibiarkan... begitu saja"). Sering memberi nuansa tidak wajar atau tidak seharusnya.
+* Pola: KK Bentuk-た + まま
+===========================================================================================================================================================================================================================================
+
+MATERI JLPT N3 - PERTEMUAN 13 (PPT #13)
+
+連用形 (Ren'yōkei)
+* Fungsi: Digunakan sebagai pengganti bentuk 「～て」 dalam kalimat majemuk formal/tertulis untuk menyatakan urutan peristiwa ("melakukan A, lalu B"). Memberikan kesan lebih sopan, ringkas, dan rapi.
+* Pola: KK (Bentuk ます tanpa ます) + KK/Kalimat
+
+～ところ
+* Fungsi: Menunjukkan situasi atau momen waktu spesifik dari suatu tindakan ("saat akan...", "sedang...", "baru saja selesai...").
+* Pola:
+* KK (Bentuk Kamus) + ところ → baru akan melakukan sesuatu
+* KK (Bentuk ている) + ところ → sedang melakukan sesuatu
+* KK (Bentuk た) + ところ → baru saja selesai melakukan sesuatu
+
+～きる / ～きれない
+* Fungsi: Menyatakan apakah suatu tindakan dapat diselesaikan sepenuhnya sampai akhir atau tidak sanggup diselesaikan karena keterbatasan/terlalu banyak.
+* Pola: KK (Bentuk ます tanpa ます) + きる / きれない
+
+～おかげで
+* Fungsi: Menyatakan bahwa suatu hasil positif terjadi berkat bantuan, pengaruh, atau situasi tertentu ("berkat...", "karena...").
+* Pola: KB + のおかげで / KK (Bentuk Biasa) + おかげで / KS-i + おかげで / KS-na + なおかげで
+
+
 Template
 Judul: Edulabo JLPT N3 - Pertemuan **/72
 
-Edulabo JLPT N3
-Pertemuan ** - 
+Deskripsi: Edulabo JLPT N3
 Courses? https://edulabojp.com/
 Work? https://kapanjepan.com/
 Sumber:
