@@ -270,7 +270,35 @@ MATERI JLPT N3 - PERTEMUAN 13 (PPT #13)
 ～おかげで
 * Fungsi: Menyatakan bahwa suatu hasil positif terjadi berkat bantuan, pengaruh, atau situasi tertentu ("berkat...", "karena...").
 * Pola: KB + のおかげで / KK (Bentuk Biasa) + おかげで / KS-i + おかげで / KS-na + なおかげで
+==================================================================================================================================================================================================
 
+MATERI JLPT N3 - PERTEMUAN 14 (PPT #14)
+
+～を通じて / 通して
+* Fungsi: Menyatakan bahwa suatu kegiatan, keadaan, atau pengalaman berlangsung terus-menerus selama jangka waktu tertentu ("selama...", "sepanjang...").
+* Pola: KB (Kata Waktu) + を通じて / 通して
+
+～ませんか / ～ないですか / ～ありませんか
+* Fungsi: Digunakan untuk ajakan, pertanyaan, atau konfirmasi dengan nuansa sopan maupun santai ("maukah...?", "bagaimana kalau...?", "bukankah...?").
+* Pola:
+  - KK (Bentuk ます tanpa ます) + ませんか → Ajakan sopan / menawarkan sesuatu.
+  - KK/KS/KB + ないですか → Ajakan / konfirmasi santai dalam percakapan sehari-hari.
+  - KB + ありませんか → Konfirmasi / menanyakan keberadaan sesuatu (formal).
+
+～というと / ～といえば / ～といったら
+* Fungsi: Menyatakan asosiasi, topik pembicaraan, atau memberi penjelasan berdasarkan kata kunci ("kalau berbicara tentang...", "kalau menyebut...").
+* Pola:
+  - KB + というと → Mengaitkan kata dengan kesan umum/asosiasi spontan (netral, faktual).
+  - KB + といえば → Mengganti topik atau mengingatkan topik lain (fleksibel).
+  - KB + といったら → Menunjukkan rasa kagum, terkejut, atau penekanan emosional yang kuat.
+
+～べきだ / ～べき + N
+* Fungsi: Menyatakan kewajiban, anjuran, atau hal yang pantas/seharusnya dilakukan berdasarkan aturan, norma, atau moral ("seharusnya...", "wajib...", "patut...").
+* Pola:
+  - KK (Bentuk Kamus) + べきだ → Seharusnya / sebaiknya melakukan...
+  - KK (Bentuk Kamus) + べきではない → Sebaiknya tidak / tidak pantas melakukan...
+  - KK (Bentuk Kamus) + べき + KB → Kata benda yang seharusnya dilakukan...
+  - (Khusus kata kerja する → bisa menjadi するべき atau すべき)
 
 Template
 Judul: Edulabo JLPT N3 - Pertemuan **/72
