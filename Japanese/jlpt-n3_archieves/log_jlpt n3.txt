@@ -299,6 +299,114 @@ MATERI JLPT N3 - PERTEMUAN 14 (PPT #14)
   - KK (Bentuk Kamus) + べきではない → Sebaiknya tidak / tidak pantas melakukan...
   - KK (Bentuk Kamus) + べき + KB → Kata benda yang seharusnya dilakukan...
   - (Khusus kata kerja する → bisa menjadi するべき atau すべき)
+==================================================================================================================================
+
+MATERI JLPT N3 - PERTEMUAN 15 (PPT #15)
+
+～にとって（は／も）
+* Fungsi: Menyatakan sudut pandang, penilaian, atau opini dari seseorang atau pihak tertentu ("bagi...", "menurut...", "untuk...").
+* Pola: KB + にとって（は／も）
+
+～ば～ほど
+* Fungsi: Menyatakan hubungan timbal balik atau tingkat intensitas yang bertambah seiring perubahan hal lainnya ("semakin..., semakin...").
+* Pola:
+  - KK (Bentuk ば) + KK (Bentuk Kamus) + ほど
+  - KS-i (ければ) + KS-i + ほど
+  - KS-na (ならば) + KS-na + ほど
+  - KB (であれば) + あるほど
+
+～によるN / ～によって
+* Fungsi: Menyatakan penyebab/akibat ("karena/akibat"), cara/sarana ("dengan/melalui"), pelaku ("oleh"), atau perbedaan/variasi ("tergantung").
+* Pola:
+  - KB + によって + KK/Kalimat
+  - KB + による + KB
+
+AばかりでなくB（も／は）
+* Fungsi: Menyatakan bahwa tidak hanya A, tetapi juga B ("bukan hanya..., tetapi juga..."). Terdengar lebih formal daripada だけでなく.
+* Pola: KB / KK (Bentuk Biasa) / KS-i / KS-na (である) + ばかりでなく + B (も/は)
+===============================================================================================================================================================
+
+MATERI JLPT N3 - PERTEMUAN 16 (PPT #16)
+
+～たび（に）
+* Fungsi: Menyatakan bahwa setiap kali suatu peristiwa terjadi, peristiwa lain juga selalu terjadi ("setiap kali...").
+* Pola: KK (Bentuk Kamus) / KB + の + たびに
+
+～はず
+* Fungsi: Menyatakan kepastian logis berdasarkan alasan, pengetahuan, atau informasi yang kuat ("seharusnya...", "pasti...").
+* Pola:
+  - KK (Bentuk Biasa) + はず
+  - KS-i + はず
+  - KS-na + な + はず
+  - KB + の + はず
+
+～ますと / ～ですと
+* Fungsi: Menyatakan konsekuensi atau hasil yang pasti terjadi dalam situasi formal atau sopan ("jika...", "begitu...").
+* Pola:
+  - KK (Bentuk ます) + と
+  - KB / KS-i / KS-na + ですと
+
+～ようなら / ～ようだったら
+* Fungsi: Menyatakan kondisi atau situasi yang tampak/mungkin terjadi berdasarkan indikasi nyata sebagai syarat ("kalau sepertinya...", "jika ternyata...").
+* Pola:
+  - KK (Bentuk Biasa) + ようなら／ようだったら
+  - KS-i + ようなら／ようだったら
+  - KS-na + な + ようなら／ようだったら
+  - KB + の + ようなら／ようだったら
+=================================================================================================================================
+
+MATERI JLPT N3 - PERTEMUAN 17 (PPT #17)
+
+～てくる
+* Fungsi: Menyatakan perubahan atau proses yang terjadi dari masa lalu hingga sekarang, pergerakan mendekat ke arah pembicara, atau kondisi/perasaan yang baru muncul.
+* Pola: KK (Bentuk て) + くる
+
+～もので / ～ものですから / ～もんで / ～もんだから
+* Fungsi: Menyatakan alasan atau sebab subjektif (alasan pribadi) untuk meminta pemakluman atau membela diri secara halus.
+* Pola:
+  - KK (Bentuk Biasa) + もので
+  - KS-i + もので
+  - KS-na + な + もので
+  - KB + な + もので
+
+～なんか
+* Fungsi: Memberikan contoh informal, merendahkan diri/suatu hal ("hal sepele..."), atau menunjukkan rasa terkejut/emosi.
+* Pola: KB / KK / KS + なんか
+
+～かと思う
+* Fungsi: Menyatakan dugaan, perkiraan, atau menyampaikan pendapat/opini pribadi secara sopan dan hati-hati ("saya kira...", "sepertinya...").
+* Pola:
+  - KK (Bentuk Biasa) + かと思う
+  - KS-i + かと思う
+  - KS-na + (だ) + かと思う
+  - KB + (だ) + かと思う
+========================================================================================================================================================
+
+MATERI JLPT N3 - PERTEMUAN 18 (PPT #18)
+
+～うちに
+* Fungsi: Menyatakan suatu tindakan atau perubahan yang terjadi selagi kondisi tertentu masih berlangsung, atau sebelum keadaan berubah (“selagi…”, “sebelum…”, “tanpa disadari…”).
+* Pola:
+  - KK (Bentuk Kamus / ている / ない) + うちに
+  - KS-i + うちに
+  - KS-na + な + うちに
+  - KB + の + うちに
+
+～たばかり
+* Fungsi: Menyatakan suatu peristiwa atau tindakan yang baru saja terjadi berdasarkan kesan atau persepsi subjektif pembicara (“baru saja…”, “belum lama…”).
+* Pola: KK (Bentuk た) + ばかり / ばかりだ
+
+～ばいいのに
+* Fungsi: Menyampaikan saran dengan nada ringan, mengungkapkan harapan tentang sesuatu yang seharusnya terjadi, atau menyatakan penyesalan (“seandainya…”, “harusnya…”, “akan lebih baik kalau…”).
+* Pola:
+  - KK (Bentuk ば) + いいのに
+  - KS-i (い → ければ) + いいのに
+  - KS-na / KB (+ なら / ならば) + いいのに
+
+～てもらってもいいですか
+* Fungsi: Menyampaikan permintaan izin atau meminta bantuan dari lawan bicara secara sangat halus dan sopan (“bolehkah saya minta tolong…”, “apakah boleh jika saya meminta Anda untuk…”).
+* Pola: KK (Bentuk て) + もらってもいいですか
+===========================================================================================================================================================================================================
 
 Template
 Judul: Edulabo JLPT N3 - Pertemuan **/72
