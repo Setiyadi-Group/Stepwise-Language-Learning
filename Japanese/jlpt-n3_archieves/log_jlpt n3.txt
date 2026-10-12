@@ -408,6 +408,234 @@ MATERI JLPT N3 - PERTEMUAN 18 (PPT #18)
 * Pola: KK (Bentuk て) + もらってもいいですか
 ===========================================================================================================================================================================================================
 
+MATERI JLPT N3 - PERTEMUAN 19 (PPT #19)
+
+お／ご〜いただく・お／ご〜くださる
+* Fungsi: Menyampaikan ungkapan permintaan maupun pemberian secara sopan. お/ご〜いただく merupakan bentuk merendah (kenjougo) saat menerima tindakan dari orang lain, sedangkan お/ご〜くださる merupakan bentuk hormat (sonkeigo) saat orang lain melakukan tindakan untuk pembicara.
+* Pola:
+  - お + KK (Bentuk ます – hapus ます) + いただく / くださる (untuk kata kerja Jepang asli / 和語)
+  - ご + KB (Kata kerja suru tanpa suru) + いただく / くださる (untuk kata kerja Sino-Jepang / 漢語)
+
+～てます／～ときます／～ちゃいます
+* Fungsi: Ungkapan lisan informal/santai dalam percakapan sehari-hari.
+  - ～てます: Menyatakan keadaan yang sedang berlangsung (bentuk lisan dari ～ています).
+  - ～ときます: Menyatakan tindakan persiapan (bentuk lisan dari ～ておきます).
+  - ～ちゃいます: Menyatakan penyelesaian tindakan atau kekhilafan/penyesalan (bentuk lisan dari ～てしまいます).
+* Pola: KK (Bentuk て) + ます / ときます / ちゃいます
+
+謙譲語（けんじょうご）
+* Fungsi: Bahasa hormat untuk merendahkan diri sendiri atau kelompok sendiri demi menghormati lawan bicara dalam situasi formal/bisnis.
+* Pola / Bentuk Khusus:
+  - 会う → お目にかかる
+  - 見せる → お目にかける
+  - もらう / 食べる / 飲む → ちょうだいする / いただく
+  - 知る / 知っている → 存じ上げる / 存じております
+  - 言う → 申し上げる / 申す
+  - 行く / 来る → 伺う / 参る
+
+お／ご〜です
+* Fungsi: Bentuk ekspresi sopan (sonkeigo) untuk menjelaskan keadaan atau aktivitas orang lain yang dihormati secara lebih halus dan ramah.
+* Pola:
+  - お + KK (Bentuk ます – hapus ます) / KB (Jepang asli) + です
+  - ご + KB (Sino-Jepang) + です
+
+===============================================================================================================================================
+
+MATERI JLPT N3 - PERTEMUAN 20 (PPT #20)
+
+～でしょうか？
+* Fungsi: Menyampaikan pertanyaan secara sopan, meminta konfirmasi dengan nada lembut, serta mengekspresikan keragu-raguan atau ketidakyakinan dalam situasi formal.
+* Pola:
+  - KK (Bentuk 普通形 / ます形) + でしょうか
+  - KS-i + でしょうか
+  - KS-na + でしょうか
+  - KB + でしょうか
+
+～ていらっしゃる
+* Fungsi: Bentuk kehormatan (sonkeigo) yang digunakan untuk menyatakan aktivitas, keberadaan, atau keadaan orang lain yang dihormati secara sopan (menggantikan bentuk ～ている).
+* Pola: KK (Bentuk て) + いらっしゃる / いらっしゃいます
+
+～させていただきます／～させてくださる
+* Fungsi: Menyampaikan ungkapan izin atau perkenan dalam melakukan suatu tindakan. ～させていただきます merupakan bentuk merendah (kenjougo) saat pembicara diizinkan melakukan sesuatu, sedangkan ～させてくださる merupakan bentuk hormat (sonkeigo) untuk menghormati pihak lain yang memberikan izin.
+* Pola:
+  - KK (Bentuk させて / Causative) + いただく
+  - KK (Bentuk させて / Causative) + くださる
+
+～てからでなければ／～てからでないと
+* Fungsi: Mengekspresikan syarat mutlak bahwa suatu tindakan tidak dapat dilakukan atau tidak akan terjadi sebelum tindakan lain selesai dilakukan.
+* Pola: KK (Bentuk て) + からでなければ / からでないと
+
+===================================================================================================================================================================================
+
+MATERI JLPT N3 - PERTEMUAN 21 (PPT #21)
+
+～かのよう／～かのように／～かのようなN
+* Fungsi: Menyampaikan perbandingan atau kiasan yang menunjukkan bahwa sesuatu tampak seperti atau seolah-olah benar adanya, padahal kenyataannya tidak demikian.
+* Pola:
+  - KK (Bentuk 普通形) + かのよう / かのように / かのような N
+  - KS-i + かのよう / かのように / かのような N
+  - KS-na (Bentuk 普通形 / である) + かのよう / かのように / かのような N
+  - KB (Bentuk 普通形 / である) + かのよう / かのように / かのような N
+
+～うちに
+* Fungsi: Menyatakan suatu tindakan atau perubahan yang terjadi selama kondisi tertentu masih berlangsung, atau dilakukan sebelum keadaan berubah (selagi / sebelum...).
+* Pola:
+  - KK (Bentuk 辞書形 / ている形 / ない形) + うちに
+  - KS-i + うちに
+  - KS-na + うちに
+  - KB + のうちに
+
+～向けだ／～向けに／～向けのN
+* Fungsi: Menyatakan bahwa sesuatu dibuat, dirancang, atau diperuntukkan bagi kelompok, sasaran, atau tujuan tertentu (ditujukan untuk...).
+* Pola:
+  - KB + 向けだ
+  - KB + 向けに
+  - KB + 向けの + KB
+
+～向き
+* Fungsi: Menyatakan kecocokan, kesesuaian, atau ketepatan suatu hal bagi orang, kelompok, atau kondisi tertentu (cocok untuk / sesuai bagi...).
+* Pola:
+  - KB + 向き
+  - KB + 向きの + KB
+
+====================================================================================================================================================================================
+
+MATERI JLPT N3 - PERTEMUAN 22 (PPT #22)
+
+～によって／～によるN
+* Fungsi: Menyatakan sebab atau alasan, cara atau metode, pelaku dalam kalimat pasif, serta variasi atau perbedaan tergantung pada situasi/kondisi.
+* Pola:
+  - KB + によって
+  - KB + による + KB
+
+～最中に／～最中だ
+* Fungsi: Menyatakan bahwa suatu kejadian atau tindakan terjadi tepat di tengah-tengah aktivitas lain yang sedang berlangsung penuh (biasanya hal tersebut mengganggu atau tidak diharapkan).
+* Pola:
+  - KK (Bentuk ている形) + 最中に / 最中だ
+  - KB + の最中に / の最中だ
+
+～かけだ／～かけのN
+* Fungsi: Menyatakan bahwa suatu tindakan atau keadaan baru saja dimulai, masih berlangsung setengah jalan, atau terhenti/belum selesai dilakukan.
+* Pola:
+  - KK (Bentuk ます形 tanpa ます) + かけだ
+  - KK (Bentuk ます形 tanpa ます) + かけの + KB
+
+～ずにはいられない
+* Fungsi: Menyatakan dorongan emosional atau perasaan alami yang kuat sehingga seseorang tidak dapat menahan diri untuk tidak melakukan suatu tindakan.
+* Pola:
+  - KK (Bentuk ない形 tanpa ない) + ずにはいられない
+  - KK (Khusus kata kerja する) → せずにはいられない
+
+====================================================================================================================================================================
+
+MATERI JLPT N3 - PERTEMUAN 23 (PPT #23)
+
+～わけがない
+* Fungsi: Menyatakan keyakinan kuat pembicara bahwa sesuatu pasti tidak terjadi atau mustahil, biasanya bersifat lebih emosional atau ekspresif saat menyangkal sesuatu.
+* Pola:
+  - KK (Bentuk 普通形) + わけがない
+  - KS-i (Bentuk 普通形) + わけがない
+  - KS-na + な + わけがない
+  - KB + の + わけがない
+
+～はずがない
+* Fungsi: Menyatakan penyangkalan logis bahwa sesuatu mustahil terjadi berdasarkan pengetahuan, fakta, atau alasan yang jelas.
+* Pola:
+  - KK (Bentuk 普通形) + はずがない
+  - KS-i (Bentuk 普通形) + はずがない
+  - KS-na + な + はずがない
+  - KB + の + はずがない
+
+～しかない
+* Fungsi: Menyatakan bahwa tidak ada pilihan atau alternatif lain selain melakukan hal tersebut, biasanya bernuansa pasrah, logis, atau "mau tidak mau".
+* Pola:
+  - KK (Bentuk 辞書形 / Vる) + しかない
+  - KB + しかない (umumnya lebih sering menggunakan verba)
+
+～ほか(は)ない
+* Fungsi: Menyatakan bahwa dari semua kemungkinan, tidak ada pilihan lain yang bisa dilakukan. Maknanya mirip dengan 「～しかない」, namun memiliki nuansa yang lebih kaku, formal, dan netral, sehingga sering digunakan dalam bahasa tulis atau percakapan sopan.
+* Pola:
+  - KK (Bentuk 辞書形 / Vる) + ほか(は)ない
+
+=============================================================================================================================================================================
+
+MATERI JLPT N3 - PERTEMUAN 24 (PPT #24)
+
+～からこそ
+
+* Fungsi: Menekankan alasan kuat atau alasan utama yang menyebabkan suatu hal terjadi.
+* Pola:
+
+  * 普通形（V・い形・な形・N）＋からこそ
+  * ～ば形＋こそ
+
+～なんか
+
+* Fungsi: Merendahkan diri atau sesuatu, memberikan contoh secara kasual, atau menunjukkan kejutan dan emosi.
+* Pola:
+
+  * 名詞＋なんか
+  * 動詞普通形＋なんか
+  * 文＋なんか
+
+～なんて
+
+* Fungsi: Mengekspresikan kejutan, penekanan, perasaan rendah diri, atau meremehkan sesuatu dengan nuansa emosional.
+* Pola:
+
+  * 名詞＋なんて
+  * 動詞普通形（Vる・Vた・Vない）＋なんて
+  * 文＋なんて
+
+～っこない
+
+* Fungsi: Menegaskan keyakinan kuat bahwa sesuatu mustahil terjadi atau tidak mungkin dilakukan.
+* Pola:
+
+  * 動詞のます形（ますを取る）＋っこない
+
+=========================================================================================================================================================================================================
+
+MATERI JLPT N3 - PERTEMUAN 25 (PPT #25)
+
+～からといって
+
+* Fungsi: Menyatakan bahwa hanya karena suatu alasan atau kondisi tertentu, bukan berarti hasil atau kesimpulan tertentu pasti berlaku.
+* Pola:
+
+  * 普通形（V・い形・な形・N＋だ）＋からといって
+
+～とは限らない
+
+* Fungsi: Menyatakan bahwa sesuatu belum tentu benar atau tidak selalu berlaku, karena terdapat pengecualian dari hal yang dianggap umum atau logis.
+* Pola:
+
+  * 動詞普通形＋とは限らない
+  * 名詞＋（だ）とは限らない
+  * い形容詞＋とは限らない
+  * な形容詞＋（だ）とは限らない
+
+～ことといったら
+
+* Fungsi: Menyatakan keterkejutan, kekaguman, atau kesan yang sangat kuat terhadap suatu hal, seperti rasa kagum, kesal, atau emosi mendalam.
+* Pola:
+
+  * 名詞＋の＋ことといったら
+  * 動詞普通形＋ことといったら
+
+～くせに
+
+* Fungsi: Menyatakan kritik, ketidakpuasan, atau pertentangan antara fakta dan sikap seseorang, dengan nuansa negatif atau menyalahkan.
+* Pola:
+
+  * 動詞普通形＋くせに
+  * い形容詞＋くせに
+  * な形容詞＋なくせに
+  * 名詞＋のくせに
+
+=========================================================================================================================================================
+
+
 Template
 Judul: Edulabo JLPT N3 - Pertemuan **/72
 
