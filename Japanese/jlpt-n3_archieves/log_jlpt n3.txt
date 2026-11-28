@@ -1108,6 +1108,99 @@ MATERI JLPT N3 - PERTEMUAN 43 (PPT #43)
 
 =================================================================================================================================================================================
 
+MATERI JLPT N3 - PERTEMUAN 44 (PPT #44)
+
+～命令形／Vるな＋と言われる／注意される／叱られる／怒られる
+- Fungsi: Menyampaikan kembali perintah, larangan, atau teguran yang diberikan oleh orang lain. Digunakan untuk menceritakan bahwa seseorang diperintah melakukan sesuatu, dilarang melakukan sesuatu, diperingatkan, atau dimarahi.
+- Pola:
+  - 命令形＋と言われる
+  - Vるな＋と言われる
+  - ～と注意される
+  - ～と叱られる／怒られる
+
+～Vてくれと／Vないでくれと＋頼まれる／言われる
+- Fungsi: Menyampaikan kembali permintaan orang lain, baik permintaan untuk melakukan sesuatu maupun permintaan agar tidak melakukan sesuatu. 頼まれる menekankan permintaan, sedangkan 言われる memiliki nuansa lebih netral.
+- Pola:
+  - Vてくれと＋頼まれる／言われる
+  - Vないでくれと＋頼まれる／言われる
+
+～いらっしゃる／参る／おる
+- Fungsi: Menggunakan keigo untuk menyatakan pergi, datang, atau berada dengan memperhatikan kedudukan lawan bicara. いらっしゃる digunakan untuk menghormati orang lain, sedangkan 参る dan おる digunakan untuk merendahkan diri sendiri atau kelompok sendiri.
+- Pola:
+  - 行く・来る → いらっしゃる（尊敬語）
+  - 行く・来る → 参る／伺う（謙譲語）
+  - いる → いらっしゃる（尊敬語）
+  - いる → おる（謙譲語）
+  - N（人）が＋いらっしゃる／おいでになる
+  - Vている → Vていらっしゃる
+  - （私は／弊社は）N（場所）に＋参る／参ります
+  - （私は）Nに＋おる／おります
+
+========================================================================================================================================================================================
+
+MATERI JLPT N3 - PERTEMUAN 45 (PPT #45)
+
+～ても／～くても／～でも
+
+- Fungsi: Menyatakan bahwa suatu hasil atau kondisi tetap tidak berubah meskipun terdapat kondisi yang bertentangan. Digunakan untuk menunjukkan bahwa hasil B tidak terpengaruh oleh kondisi A. Dapat digunakan untuk permohonan atau ajakan halus, menunjukkan batas toleransi, serta menyatakan pendapat atau penegasan.
+- Pola:
+  - 動詞て形＋も
+  - い形容詞（いを取る）＋くても
+  - な形容詞＋でも
+  - 名詞＋でも
+  - Bentuk negatif juga dapat digunakan.
+
+～どんなに／いくら／誰が／いつ／どう／何を＋Vても
+
+- Fungsi: Menegaskan bahwa suatu hasil tetap tidak berubah dalam kondisi apa pun, sekalipun tingkat atau jumlahnya berbeda, siapa pun pelakunya, kapan pun waktunya, atau bagaimana pun caranya. Pola ini memberikan penekanan pada makna "sekalipun" atau "bagaimanapun".
+- Pola:
+  - どんなに＋Vて形＋も
+  - どんなに＋い形容詞（いを取る）＋くても
+  - どんなに＋な形容詞＋でも
+  - どんなに＋名詞＋でも
+  - いくら＋Vて形＋も
+  - 誰が＋Vて形＋も
+  - どんな＋名詞＋でも
+  - いつ＋Vて形＋も
+  - どう＋Vて形＋も
+  - 何を＋Vて形＋も
+  - 何を＋名詞＋でも
+
+～ずに
+
+- Fungsi: Menyatakan bahwa suatu tindakan tidak dilakukan, tetapi tindakan lain tetap dilakukan, dengan arti "tanpa melakukan ... lalu ...". Mirip dengan ～ないで, tetapi lebih formal dan lebih sering digunakan dalam tulisan. Digunakan khusus untuk kata kerja dan dapat menunjukkan kritik, kelalaian, ataupun spontanitas.
+- Pola:
+  - 動詞ない形（ないを取る）＋ずに
+  - する → せずに
+================================================================================================================================================================================================
+
+MATERI JLPT N3 - PERTEMUAN 46 (PPT #46)
+
+Nとして（は／も）／NとしてのN
+- Fungsi: Menyatakan posisi, peran, fungsi, status, identitas, atau kapasitas seseorang maupun sesuatu. 「としては」menekankan penilaian atau standar berdasarkan peran tersebut, 「としても」berarti "bahkan sebagai ... pun", sedangkan 「としてのN」digunakan untuk menjelaskan posisi atau fungsi suatu kata benda.
+- Pola:
+  - 名詞＋としては
+  - 名詞＋としても
+  - 名詞＋としての＋名詞
+
+～にしては／それにしては
+- Fungsi: Menyatakan ketidaksesuaian antara dugaan atau harapan dengan kenyataan. 「～にしては」digunakan ketika kenyataan berbeda dari ekspektasi berdasarkan suatu kondisi, sedangkan 「それにしては」digunakan untuk memberikan reaksi terhadap informasi sebelumnya dengan menunjukkan ketidaksesuaian yang mengejutkan.
+- Pola:
+  - 名詞＋にしては
+  - 動詞普通形＋にしては
+  - い形容詞＋にしては
+  - な形容詞＋にしては
+  - それにしては＋文
+
+～にしても／それにしても
+- Fungsi: Menyatakan penerimaan terhadap suatu keadaan, tetapi tetap memberikan opini, kritik, rasa heran, atau ketidakpuasan. 「～にしても」digunakan ketika mengakui suatu keadaan tetapi tetap memberikan komentar tambahan, sedangkan 「それにしても」menunjukkan reaksi emosional yang lebih kuat dan biasanya muncul di awal kalimat.
+- Pola:
+  - 動詞普通形＋にしても
+  - い形容詞普通形＋にしても
+  - な形容詞＋にしても
+  - 名詞＋にしても
+  - それにしても＋文
+
 Template
 Judul: Edulabo JLPT N3 - Pertemuan **/72
 
